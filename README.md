@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zempex</h1>
-<h3 align="center">A passionate Reverse Engineer From Estonia</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
